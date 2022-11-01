@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=A Pin=U3-8
+Removed Pin From Net: NetName=H_1 Pin=U3-15
+Removed Pin From Net: NetName=L_1 Pin=U3-16
+Change Component Designator: OldDesignator=NPN 1 NewDesignator=NPN 2
+Change Component Designator: OldDesignator=NPN 2 NewDesignator=NPN 3
+Change Component Designator: OldDesignator=NPN 3 NewDesignator=NPN 4
+Change Component Designator: OldDesignator=NPN 4 NewDesignator=NPN 5
+Change Component Designator: OldDesignator=NPN 5 NewDesignator=NPN 6
+Change Component Designator: OldDesignator=NPN NewDesignator=NPN 1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U NewDesignator=U1
+Added Pin To Net: NetName=A Pin=U4-39
+Added Pin To Net: NetName=L_1 Pin=U4-41
+Added Pin To Net: NetName=H_1 Pin=U4-43
+Change Net Name : Old Net Name=NetNPN 1_1 New Net Name=NetNPN 2_1
+Change Net Name : Old Net Name=NetNPN 2_1 New Net Name=NetNPN 3_1
+Change Net Name : Old Net Name=NetNPN 3_1 New Net Name=NetNPN 4_1
+Change Net Name : Old Net Name=NetNPN 4_1 New Net Name=NetNPN 5_1
+Change Net Name : Old Net Name=NetNPN 5_1 New Net Name=NetNPN 6_1
+Change Net Name : Old Net Name=NetNPN 20V 5A MOSFET_1 New Net Name=NetNPN 1_1
+Change Net Name : Old Net Name=NetU3_46 New Net Name=NetU4_46
+Change Net Name : Old Net Name=NetU3_49 New Net Name=NetU4_49
+Added Room: Name=U_currentRead
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_signal
+Added Room: Name=U_switch

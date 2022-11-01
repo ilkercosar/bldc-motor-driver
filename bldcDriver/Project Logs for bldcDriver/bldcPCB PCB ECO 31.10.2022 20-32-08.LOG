@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=B Pin=U4-9
+Removed Pin From Net: NetName=C Pin=U4-10
+Removed Pin From Net: NetName=H_2 Pin=U4-17
+Removed Pin From Net: NetName=L_2 Pin=U4-20
+Removed Pin From Net: NetName=H_3 Pin=U4-21
+Removed Pin From Net: NetName=L_3 Pin=U4-22
+Removed Member From Class: ClassName=U_switch Member=U4
+Added Pin To Net: NetName=C Pin=U4-14
+Added Pin To Net: NetName=L_3 Pin=U4-15
+Added Pin To Net: NetName=H_3 Pin=U4-16
+Added Pin To Net: NetName=B Pin=U4-17
+Added Pin To Net: NetName=L_2 Pin=U4-21
+Added Pin To Net: NetName=H_2 Pin=U4-24
+Added Member To Class: ClassName=U_switch Member=Component NPN 4 S?
+Added Member To Class: ClassName=U_switch Member=Component U3 IR2101 SOIC-8

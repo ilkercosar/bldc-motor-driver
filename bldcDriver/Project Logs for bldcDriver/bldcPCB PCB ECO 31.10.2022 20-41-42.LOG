@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=GNDA Pin=C1-2
+Added Pin To Net: NetName=GNDA Pin=C2-2
+Added Pin To Net: NetName=GNDA Pin=C5-2
+Added Pin To Net: NetName=GNDA Pin=C6-2
+Added Pin To Net: NetName=GNDA Pin=C7-2
+Added Pin To Net: NetName=GNDA Pin=C9-2
+Added Pin To Net: NetName=GNDA Pin=C11-2
+Added Pin To Net: NetName=GNDA Pin=C13-2
+Added Pin To Net: NetName=GNDA Pin=C14-2
+Added Pin To Net: NetName=GNDA Pin=C15-2
+Added Pin To Net: NetName=GNDA Pin=C16-2
+Added Pin To Net: NetName=GNDA Pin=C17-2
+Added Pin To Net: NetName=GNDA Pin=NPN 3-3
+Added Pin To Net: NetName=GNDA Pin=NPN 4-3
+Added Pin To Net: NetName=GNDA Pin=NPN 6-3
+Added Pin To Net: NetName=GNDA Pin=P1-1
+Added Pin To Net: NetName=GNDA Pin=R13-1
+Added Pin To Net: NetName=GNDA Pin=U1-4
+Added Pin To Net: NetName=GNDA Pin=U2-4
+Added Pin To Net: NetName=GNDA Pin=U3-4
+Added Pin To Net: NetName=GNDA Pin=U4-18
+Added Pin To Net: NetName=GNDA Pin=U4-31
+Added Pin To Net: NetName=GNDA Pin=U4-47
+Added Pin To Net: NetName=GNDA Pin=U4-63
+Change Net Name : Old Net Name=GNDA New Net Name=COMM
+Added Member To Class: ClassName=U_switch Member=Component NPN 3 S?
